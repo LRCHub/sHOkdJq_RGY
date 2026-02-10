@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "MACHINEGUN",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2026-02-10T15:24:47.701486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MACHINEGUN",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/01_MACHINEGUN_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Machinegun Majesty",
+      "artist": "Soilwork",
+      "has_synced": false,
+      "path": "select/02_Machinegun_Majesty_Soilwork.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Could Get More Machinegun Psystyle! -And More Genre Switches-",
+      "artist": "Camellia",
+      "has_synced": true,
+      "path": "select/03_We_Could_Get_More_Machinegun_Psystyle!_-And_More_Genre_Switches-_Camellia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Could Get More Machinegun Psystyle! -And More Genre Switches-",
+      "artist": "かめりあ",
+      "has_synced": true,
+      "path": "select/04_We_Could_Get_More_Machinegun_Psystyle!_-And_More_Genre_Switches-_かめりあ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "MachineGun Kiss【Full Spec Edition】",
+      "artist": "Kazuma Kiryu(Takaya Kuroda)",
+      "has_synced": true,
+      "path": "select/05_MachineGun_Kiss【Full_Spec_Edition】_Kazuma_Kiryu(Takaya_Kuroda).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "MachineGun Kiss",
+      "artist": "SEGA",
+      "has_synced": true,
+      "path": "select/06_MachineGun_Kiss_SEGA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Machinegun Poem Doll",
+      "artist": "cosMo@暴走P",
+      "has_synced": true,
+      "path": "select/07_Machinegun_Poem_Doll_cosMo@暴走P.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "MACHINEGUN POEM DOLL",
+      "artist": "cosMo@Bousou-P",
+      "has_synced": true,
+      "path": "select/08_MACHINEGUN_POEM_DOLL_cosMo@Bousou-P.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Machinegun Majesty (live)",
+      "artist": "Soilwork",
+      "has_synced": false,
+      "path": "select/09_Machinegun_Majesty_(live)_Soilwork.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Machinegun",
+      "artist": "The Oral Cigarettes",
+      "has_synced": false,
+      "path": "select/10_Machinegun_The_Oral_Cigarettes.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "MachineGun Kiss - Full Spec Edition",
+      "artist": "桐生一馬(黒田崇矢)",
+      "has_synced": true,
+      "path": "select/11_MachineGun_Kiss_-_Full_Spec_Edition_桐生一馬(黒田崇矢).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "MACHINEGUN",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/12_MACHINEGUN_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "MachineGun Kiss - Police Spec Edition",
+      "artist": "足立宏一(大塚明夫)",
+      "has_synced": true,
+      "path": "select/13_MachineGun_Kiss_-_Police_Spec_Edition_足立宏一(大塚明夫).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Machinegun Rap",
+      "artist": "BluntOne",
+      "has_synced": true,
+      "path": "select/14_Machinegun_Rap_BluntOne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Machinegun GoGo",
+      "artist": "Panzer AG",
+      "has_synced": false,
+      "path": "select/15_Machinegun_GoGo_Panzer_AG.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Could Get More Machinegun Psystyle!",
+      "artist": "かめりあ",
+      "has_synced": false,
+      "path": "select/16_We_Could_Get_More_Machinegun_Psystyle!_かめりあ.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Misfit With a Machinegun",
+      "artist": "One Man Army and the Undead Quartet",
+      "has_synced": true,
+      "path": "select/17_Misfit_With_a_Machinegun_One_Man_Army_and_the_Undead_Quartet.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "MACHINEGUN (2021.11.1 Live at Zepp DiverCity TOKYO)",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/18_MACHINEGUN_(2021.11.1_Live_at_Zepp_DiverCity_TOKYO)_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MACHINEGUN",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_MACHINEGUN_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
